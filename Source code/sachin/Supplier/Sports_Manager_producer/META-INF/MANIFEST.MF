@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Sports_Manager_producer
+Bundle-SymbolicName: Sports_Manager_producer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: sports_manager_producer.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: Sports.Manager.producer
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: sports_manager_producer
+
+
