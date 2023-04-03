@@ -5,4 +5,6 @@ Using the Eclipse Equinox OSGi Framework, we created a system for the Sports acc
 • In this situation, there are four consumers and four producers, including a manager consumer, a supplier consumer, a storekeeper consumer, and a transport consumer. 
 • Sports accessories will be supplied to the store by the Supplier Consumer, who will also mark the price and provide discounts on the products. 
 •  The storekeeper's customer will increase and decrease the quantities of each item in stock.  • Delivery costs are calculated by the transport consumer based on the location and distance of the delivery.  
-• We expose the producer service APIs to follow OSGI standard practices.   
+• We expose the producer service APIs to follow OSGI standard practices.  
+
+https://github.com/SaChInD99/MTIT-WalmartSportStore-OSGi-Assignment-/blob/main/Source%20code/sachin/Delete.jpg
